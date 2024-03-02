@@ -23,7 +23,7 @@ This project aims to develop an Internet of Things (IoT) based heart attack dete
 - `MobileApp/` (Optional) - If applicable, includes files related to mobile app development.
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/shashankatthaluri/Project_ideas/iot-heart-monitor.git`
+1. Clone the repository: `git clone https://github.com/shashankatthaluri/project_ideashub/iot-heart-monitor.git`
 2. Connect the hardware components as per the documentation.
 3. Configure IoT platform details in the Python script (`Python/data_acquisition.py`).
 4. Upload the Arduino sketch to the Arduino UNO.
