@@ -44,3 +44,10 @@ while True:
 
     # Adjust the time interval based on your requirements
     time.sleep(60)  # Send data every 60 seconds
+
+send_data_to_iot_platform function is responsible for sending heart rate data to your IoT platform.
+read_heart_rate_from_arduino function is a placeholder for the actual function that reads heart rate data from the Arduino.
+Please replace the placeholder values for iot_platform_url and iot_api_key with your specific IoT platform details.
+
+#For the Arduino part, you'll need to use the Arduino IDE and write a sketch to read data from the pulse sensor and send it to the Wi-Fi module. 
+#This sketch will interact with the Python code shown above. If you're not familiar with writing Arduino sketches, there are many resources and tutorials available online to help you get started.
